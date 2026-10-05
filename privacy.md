@@ -6,7 +6,7 @@ title: Privacy Policy
 
 **Last updated:** October 5, 2026
 
-This Privacy Policy explains how idealAI ("we", "us", "our") collects, uses, and protects your information when you use the idealAI mobile and web apps ("the App"). idealAI is based in the United States and serves users worldwide.
+This Privacy Policy explains how idealAI ("we", "us", "our") collects, uses, and protects your information when you use the idealAI mobile and web apps. idealAI is based in the United States and serves users worldwide.
 
 ## 1. Information We Collect
 **Information you provide:**
