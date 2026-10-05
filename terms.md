@@ -1,5 +1,6 @@
 ---
 title: Terms & Conditions
+layout: default
 ---
 
 # Terms & Conditions
