@@ -6,7 +6,7 @@ title: Terms & Conditions
 
 **Last updated:** October 5, 2026
 
-Welcome to idealAI ("the App"), provided by idealAI ("we", "us", "our"). By creating an account or using the App on mobile or web, you agree to these Terms. If you do not agree, please do not use the App.
+Welcome to idealAI, provided by idealAI ("we", "us", "our"). By creating an account or using the App on mobile or web, you agree to these Terms. If you do not agree, please do not use the App.
 
 ## 1. Eligibility
 You must be at least 13 years old to use the App. If you are under the age of majority where you live, you must have permission from a parent or guardian.
